@@ -1,0 +1,6 @@
+framework module Mensagens {
+  umbrella header "Mensagens-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - Mensagens (0.1.0)
+
+DEPENDENCIES:
+  - Mensagens (from `../`)
+
+EXTERNAL SOURCES:
+  Mensagens:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Mensagens: 864951b7f05ebc972537ea8acba0a3c7dc563cb1
+
+PODFILE CHECKSUM: f1bc49cfef6e8ec9810033ae5e8709fd60105739
+
+COCOAPODS: 1.4.0
